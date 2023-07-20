@@ -8,7 +8,7 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
-Just a change
+
 * Configuration
 
 * Database creation
@@ -22,3 +22,5 @@ Just a change
 * Deployment instructions
 
 * ...
+
+* Just a small test
